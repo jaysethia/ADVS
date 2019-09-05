@@ -5,28 +5,28 @@ Setup Instructions:
 
 1.1 Minimum System Requirements
 Hardware
-●	RAM - 4GB DDR3
-●	Processor - Intel based
-●	Active Internet Connection
+● RAM - 4GB DDR3
+● Processor - Intel based
+● Active Internet Connection
 Software
-●	OS - Ubuntu 14.04 or higher
-●	Python v2.7
+● OS - Ubuntu 14.04 or higher
+● Python v2.7
 Prerequisites
-1.	Server should have Apache Installed, along with working config of PHP
-2.	The Python and the PHP files should be kept in the same directory.
+1. Server should have Apache Installed, along with working config of PHP
+2. The Python and the PHP files should be kept in the same directory.
 
 1.2 Steps to Setup environment
-1.	Update Ubuntu:
+1. Update Ubuntu:
 sudo apt-get update
-2.	Install PIP for installing python packages:
+2. Install PIP for installing python packages:
 sudo apt-get install python-pip
-3.	Install Tesseract-OCR:
+3. Install Tesseract-OCR:
 sudo apt-get install tesseract-ocr
-4.	Install Tesseract-OCR languages:
+4. Install Tesseract-OCR languages:
 sudo apt-get install tesseract-ocr-hin
-5.	Install Python Imaging Library:
+5. Install Python Imaging Library:
 sudo pip install pillow
-6.	Install MySQL:
+6. Install MySQL:
 sudo apt-get install python-dev libmysqlclient-dev
 sudo pip install MySQL-python
 
