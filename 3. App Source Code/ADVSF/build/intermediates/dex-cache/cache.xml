@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-7.8.0_77e8be055799d8b25e92b0267734a12f05a53a19\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-7.8.0_d699c2f63891bea66506ded3389cd7695af92677\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-7.8.0_09120b44cc64ddbf6336951ab8d7bf2af9fb4ab2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-7.8.0_e1436eb903b5f1acc7ccd24947ec32a3730a4605\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-7.8.0_2a6f81853189660c6ea2759050a2957c591d7b89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5993ed6e58fa010dd9d54ea360b2ae0cc71d7279">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7369cc6b36e43631542bc2f3271267c5b15be77d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba8e8860f7e033c3a503b682337a4bafdf56e6ee">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.0_b9383c999fcdeace8ae64db5b95c32f87d5008ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-7.8.0_605ee056572b8b5738fc46284bdb9b6c3af4fa64\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-7.8.0_0a11b16c17e17a9205cbdf0fb795eed57d1315bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-7.8.0_5a29244ac6be2204de35bfbc7afd0302938d7329\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-7.8.0_f08c6743a289c49b1f7ecf8cd87e8a84ad3a749e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-7.8.0_d936864989a3296e39d4a2ad79555ecadec506cf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-7.8.0_cfdc705f47326979a7620da26abeefea2c4393f5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-7.8.0_ccc353ff7b1c85525f1e1c360d75f2315feb37b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c854b30eca6c442fe842e66cd3b58c5dd08996f">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.0_73c30b117f09d0c1294b31139000ed455098c125\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-7.8.0_1541f18dbcfbf6124827e0c35d1c85c39294efd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e096a5d8343cc9c5a9f6eded36bd0f4c82f8c83e">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.0_45fa6cae427b6fe98f5cc42aa60314a362821af0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-7.8.0_75cb0296e28dbd953b43af6db47baf123435979f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-7.8.0_aaa2540586878ae39d043c4c942b790d60019fdd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5e714c15a73c415cd9907d0d408810bffc88478">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_653f7d7a5a22ea0b3e6ac68d2749d85a91dab373\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.0\jars\libs\internal_impl-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8c7087216946c546f85a1242a2794c0f271e092c">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.0_c0821dc0df41d5efdf8810329c2e94074447db69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appstate-7.8.0_87c51284b0fc3d74d1022c836a0bfdfcfc8daa80\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-7.8.0_558bae27b9b01ade9e4b22538ca1d6072a97b3ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-7.8.0_9c8c1299ae8e3c2408dabc23fa6ac146a0872a2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.0_beda89ed8162ec7aa1b5c6f89c7e067761bc7e31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-7.8.0_eba226ab46093d992e41c437974df2c8aeb11811\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-22.2.0_e031daea0b482a071e30e86a3f9409a808dba7a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\24.1.0\support-annotations-24.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a23146e1a8c7cb4758e3d3f62449213f1e51f67">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.0_cd1d17ce0cb90cbe980078581b1c95e96fc606d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.volley-volley-1.0.0_86e6ef9c7967ef41b6c0833d1f68a695995fce95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-7.8.0_2181ec6aed597704a8f9354295e170db777e33a2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9340c4f95a4e3916c9ad70296e24576743743712">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.0_6977cf3e2a5905cad04c61ab95b730834f73a47a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ADVSF\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="D:\ADVSF\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-7.8.0_4e1072abe25d90878a93aef16ce67fc590973728\classes.dex" />
+    </item>
+
+</items>

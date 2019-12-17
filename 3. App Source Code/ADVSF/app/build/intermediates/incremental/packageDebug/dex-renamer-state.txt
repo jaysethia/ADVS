@@ -1,0 +1,7 @@
+#Fri Mar 31 09:08:40 IST 2017
+base.0=D\:\\ADVSF\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7369cc6b36e43631542bc2f3271267c5b15be77d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\ADVSF\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_653f7d7a5a22ea0b3e6ac68d2749d85a91dab373\\classes.dex
+base.1=D\:\\ADVSF\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_653f7d7a5a22ea0b3e6ac68d2749d85a91dab373
+file.0=D\:\\ADVSF\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7369cc6b36e43631542bc2f3271267c5b15be77d\\classes.dex
